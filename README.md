@@ -1,5 +1,5 @@
 # Kafka Order Tracking System
-***
+
 #### Project to learn kafka topics, producer, consumer through a basic project of `Food Order Tracking System`
 ---
 ### Requirments
@@ -8,7 +8,7 @@
   ```
   docker engine up and running
   ```
-___
+***
 
 - Python Libraries
   ```bash
